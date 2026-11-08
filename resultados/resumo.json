@@ -1,0 +1,62 @@
+{
+ "astar": {
+  "8": {
+   "sucesso": true,
+   "algoritmo": "astar",
+   "n": 8,
+   "tempo": 375.82351937499993,
+   "expandidos": 2741210,
+   "gerados": 161978332,
+   "maior_fronteira": 2728754,
+   "ultimo_f": 8,
+   "memoria_mb": 827
+  },
+  "80": {
+   "sucesso": false,
+   "motivo": "limite de tempo atingido",
+   "algoritmo": "astar",
+   "n": 80,
+   "tempo": 60.012688214000036,
+   "expandidos": 412400,
+   "gerados": 2638541602,
+   "maior_fronteira": 412399,
+   "ultimo_f": 2,
+   "memoria_mb": 827
+  },
+  "800": {
+   "sucesso": false,
+   "motivo": "limite de tempo atingido",
+   "algoritmo": "astar",
+   "n": 800,
+   "tempo": 60.44914246500002,
+   "expandidos": 8800,
+   "gerados": 5631991201,
+   "maior_fronteira": 8800,
+   "ultimo_f": 1,
+   "memoria_mb": 827
+  }
+ },
+ "gulosa": {
+  "8": {
+   "tentativas": 1,
+   "expandidos": 9,
+   "tempo": 0.000625898000066627,
+   "acertos": 13,
+   "total": 20
+  },
+  "80": {
+   "tentativas": 1,
+   "expandidos": 81,
+   "tempo": 0.010543406000010691,
+   "acertos": 11,
+   "total": 20
+  },
+  "800": {
+   "tentativas": 2,
+   "expandidos": 1901,
+   "tempo": 18.122473088999868,
+   "acertos": 4,
+   "total": 20
+  }
+ }
+}
